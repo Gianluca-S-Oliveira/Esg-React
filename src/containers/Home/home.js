@@ -25,7 +25,9 @@ function Home() {
     speed: 500,
     slidesToShow: 1,
     slidesToScroll: 1,
-    autoPlay: true,
+    autoplay: true,
+    speed: 1200,
+    autoplaySpeed: 1500,
   };
 
   return (
